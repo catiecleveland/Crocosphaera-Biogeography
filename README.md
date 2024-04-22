@@ -1,12 +1,12 @@
 # Crocosphaera-Biogeography
 
-## Bash Script Files
+### Bash Script Files
 Phylogenomic Tree 
 Pangenomic Analysis 
 Read Mapping
 
-## R Script files
-R script for bar plots
+### R Script files
+R script for plots
 
 ## Abstract
 
